@@ -1,5 +1,6 @@
 # TravelWebsite
-Online Travel Booking System                                                                                                                             
+Online Travel Booking System 
+
 Tools Used: MySql, Enterprise Bean, Java Servlets, Javascript, Bootstrap, CSS, HTML5 and Google Analytics
 
 
